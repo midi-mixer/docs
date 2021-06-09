@@ -14,5 +14,11 @@ Plugins provide you with the ability to extend MIDI Mixer and leverage its core 
 
 {% page-ref page="create-a-plugin/" %}
 
+## Known plugins
 
+| Name | Author | Link |
+| :--- | :--- | :--- |
+| OBS | MIDI Mixer | [https://github.com/midi-mixer/plugin-obs](https://github.com/midi-mixer/plugin-obs) |
+| Philips Hue | MIDI Mixer | [https://github.com/midi-mixer/plugin-hue](https://github.com/midi-mixer/plugin-hue) |
+| Discord | MIDI Mixer | [https://github.com/midi-mixer/plugin-discord](https://github.com/midi-mixer/plugin-discord) |
 
