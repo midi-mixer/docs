@@ -12,7 +12,7 @@ Plugins provide you with the ability to extend MIDI Mixer and leverage its core 
 
 {% page-ref page="use-a-plugin/" %}
 
-{% page-ref page="create-a-plugin/" %}
+{% page-ref page="create-a-plugin.md" %}
 
 ## Known plugins
 
