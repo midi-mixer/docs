@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [FAQ](faq.md)
-* [Terminology](terminology.md)
+* [👋 Introduction](README.md)
+* [❓ FAQ](faq.md)
+* [💬 Terminology](terminology.md)
+* [⚙ Settings](settings.md)
 
 ## 🎹 Profiles
 
@@ -12,7 +13,7 @@
 
 ## 🔌 Plugins
 
-* [Overview](plugins/using-plugins.md)
+* [Overview](plugins/overview.md)
 * [Use a plugin](plugins/use-a-plugin/README.md)
   * [Troubleshooting](plugins/use-a-plugin/troubleshooting.md)
 * [Create a plugin](plugins/create-a-plugin.md)

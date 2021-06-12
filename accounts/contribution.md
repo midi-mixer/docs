@@ -13,11 +13,11 @@ There are currently two rewards for contributing that can be seen on the **Accou
 
 **Lifetime beta access** is given for any contribution across any platform, and can be activated by setting the "Release channel" to "Alpha" in the app's settings page. Once set, your app will automatically keep up-to-date with the latest alpha version.
 
-![Setting the app&apos;s &quot;Release channel&quot; to &quot;Alpha&quot; to receive automatic alpha updates](../.gitbook/assets/image%20%2822%29.png)
+![Setting the app&apos;s &quot;Release channel&quot; to &quot;Alpha&quot; to receive automatic alpha updates](../.gitbook/assets/image%20%2826%29.png)
 
 **Unlimited plugins** are given to all users with an active monthly subscription, using either [Patreon ](https://www.patreon.com/midimixer)or an in-app subscription \(using [Stripe](https://stripe.com/docs/security/stripe)\). Without access to unlimited plugins, only one plugin can be activated at a time.
 
-![Running multiple plugins concurrently using a subscription](../.gitbook/assets/image%20%2821%29.png)
+![Running multiple plugins concurrently using a subscription](../.gitbook/assets/image%20%2825%29.png)
 
 ## What's it used for?
 
@@ -41,7 +41,7 @@ In-app subscriptions use Stripe because of their strong track record with securi
 
 In addition, your credit card information is never stored or transmitted through any MIDI Mixer servers or even the MIDI Mixer app itself - the secure Stripe checkout that is created routes all data directly to Stripe's servers. I do have access to the last 4 digits of your card to be used for support requests, but I cannot access your full card information - only Stripe handles that data.
 
-![An example of the secure Stripe checkout that&apos;s created when subscribing in-app ](../.gitbook/assets/image%20%2820%29.png)
+![An example of the secure Stripe checkout that&apos;s created when subscribing in-app ](../.gitbook/assets/image%20%2823%29.png)
 
 ## Support
 

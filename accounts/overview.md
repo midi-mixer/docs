@@ -16,7 +16,7 @@ If you're making an account or contributing, make sure to use the same email for
 
 To register an account, head over to the **Account** tab \(the MIDI Mixer icon in the bottom left\), and enter an email to get started.
 
-![The &quot;Account&quot; page in MIDI Mixer&apos;s UI](../.gitbook/assets/image%20%2819%29.png)
+![The &quot;Account&quot; page in MIDI Mixer&apos;s UI](../.gitbook/assets/image%20%2822%29.png)
 
 Once you've created an account, you'll need to verify your email before you can sync any changes. You'll receive an email from `noreply@midi-mixer.com` with a link that, once clicked, will verify your account.
 

@@ -2,7 +2,7 @@
 description: Explanations of the terms used throughout this site and within MIDI Mixer.
 ---
 
-# Terminology
+# 💬 Terminology
 
 ## Profiles
 
@@ -58,7 +58,7 @@ Currently, the **Buttons** tab in the UI allows you to use any **Button** contro
 
 Plugins provide you with the ability to extend MIDI Mixer and leverage its core concepts to provide control for any application with generic rules that can apply to any MIDI device. Control apps, games, or even hardware like [Philips Hue lighting](https://github.com/midi-mixer/plugin-hue), helping other users get the most out of their device.
 
-To get a more in-depth overview of plugins, head over to the [**Plugins Overview**](plugins/using-plugins.md).
+To get a more in-depth overview of plugins, head over to the [**Plugins Overview**](plugins/overview.md).
 
 The **Plugins** tab shows you the plugins you have installed as well as those that are currently active. 
 

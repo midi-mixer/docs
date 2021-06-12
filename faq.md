@@ -1,4 +1,4 @@
-# FAQ
+# ❓ FAQ
 
 ## My device / MIDI Mixer isn't working! 
 
