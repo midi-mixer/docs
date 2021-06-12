@@ -20,7 +20,7 @@ Share links will last forever, but do not update; if you change your profile, yo
 
 To import a profile that's been shared by another user, enter the share link you've been given in to any web browser.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 A share link should always begin with `midi-mixer://share/`.
 {% endhint %}
 

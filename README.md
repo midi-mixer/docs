@@ -20,7 +20,7 @@ Hi! 👋 I'm Jack, a full-time software developer and the creator of MIDI Mixer.
 
 MIDI Mixer is an ongoing passion project to help make everyday use of some of the awesome MIDI devices out there for more than just your DAW. If you're enjoying the software, please consider supporting the development of the project at [Patreon](https://www.patreon.com/midimixer), [buying me a coffee](https://ko-fi.com/midimixer), or [subscribing](accounts/contribution.md).
 
-{% hint style="info" %}
+{% hint style="success" %}
 If you do decide to be wonderful and contribute, you'll receive some cool extra benefits. You can see those over on the [**Contribution** ](accounts/contribution.md)page.
 {% endhint %}
 

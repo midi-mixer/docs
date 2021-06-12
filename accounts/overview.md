@@ -16,7 +16,7 @@ In the future, accounts will be used for a variety of community-based features t
 
 MIDI Mixer itself only requires a valid, verified email to register, and collects no personalised information whatsoever other than the bare minimum needed to connect your account to a contribution.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If you're making an account or contributing, make sure to use the same email for your contribution and for MIDI Mixer. This will ensure that you're automatically rewarded for any contribution made.
 {% endhint %}
 

@@ -39,7 +39,7 @@ MIDI Mixer is a passion project, but there are still costs involved in maintaini
 
 As well as contributing via [Patreon ](https://www.patreon.com/midimixer)or [Ko-fi](https://ko-fi.com/midimixer), those with an account can also subscribe in-app. This is a monthly subscription and is treated exactly the same as a [Patreon ](https://www.patreon.com/midimixer)subscription in terms of rewards.
 
-{% hint style="info" %}
+{% hint style="success" %}
 In-app subscriptions are definitely the easiest way to subscribe, but if you'd like to use PayPal you can use [Patreon ](https://www.patreon.com/midimixer)instead.
 {% endhint %}
 

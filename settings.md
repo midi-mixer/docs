@@ -68,7 +68,7 @@ Now, whenever I hit a button on my **X-TOUCH MINI**, that button press is also s
 
 The updates section within the settings page gives you control over when and how MIDI Mixer updates itself.
 
-{% hint style="info" %}
+{% hint style="success" %}
 \*\*\*\*[**Contributors** ](accounts/contribution.md)have access to the [**Alpha** ](accounts/contribution.md#what-do-i-get)release channel, providing access to features and builds before other users.
 {% endhint %}
 
