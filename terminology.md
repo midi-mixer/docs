@@ -16,7 +16,7 @@ A collection of [**Controls**](terminology.md#controls), a [**Group** ](terminol
 
 \*\*\*\*[**Groups** ](terminology.md#groups)are synonymous with "channels" on mixers; in the image below, "Channel 1", would be a [**Group** ](terminology.md#groups)within MIDI Mixer.
 
-![A &quot;channel&quot; on a mixer is synonymous with a &quot;group&quot; in MIDI Mixer](.gitbook/assets/image%20%289%29.png)
+![A &quot;channel&quot; on a mixer is synonymous with a &quot;group&quot; in MIDI Mixer](.gitbook/assets/image%20%2810%29.png)
 
 If we were using the above mixer and assigned our highlighted [**Group** ](terminology.md#groups)to the Discord application, we could now use any of the [**Controls** ](terminology.md#controls)within that group to perform different actions to that application, like changing volume, muting, or starting the application.
 
@@ -46,13 +46,13 @@ A **Button** defines any single-press control like, well, buttons or velocity-se
 
 An **Indicator** defines an LED, motorised fader, or some other feedback-related MIDI messages that will be sent _back_ to your MIDI device to display the current state of your system's audio.
 
-![The &quot;Fader motor 1&quot; indicator of the Behringer X-Touch Extender preset](.gitbook/assets/image%20%2812%29.png)
+![The &quot;Fader motor 1&quot; indicator of the Behringer X-Touch Extender preset](.gitbook/assets/image%20%2814%29.png)
 
 ## Buttons
 
 Currently, the **Buttons** tab in the UI allows you to use any **Button** controls not in use by [**Groups** ](terminology.md#groups)and assign them generic actions unrelated to any particular application.
 
-![Assigning the spare &quot;Media Record&quot; button to set the default output device of the system](.gitbook/assets/image%20%2811%29.png)
+![Assigning the spare &quot;Media Record&quot; button to set the default output device of the system](.gitbook/assets/image%20%2813%29.png)
 
 ## Plugins
 
@@ -62,5 +62,5 @@ To get a more in-depth overview of plugins, head over to the [**Plugins Overview
 
 The **Plugins** tab shows you the plugins you have installed as well as those that are currently active. 
 
-![The &quot;Plugins&quot; tab in the MIDI Mixer UI](.gitbook/assets/image%20%2810%29.png)
+![The &quot;Plugins&quot; tab in the MIDI Mixer UI](.gitbook/assets/image%20%2812%29.png)
 

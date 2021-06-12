@@ -13,7 +13,8 @@
 ## Plugins
 
 * [Overview](plugins/using-plugins.md)
-* [Use a plugin](plugins/installing-a-plugin.md)
+* [Use a plugin](plugins/use-a-plugin/README.md)
+  * [Troubleshooting](plugins/use-a-plugin/troubleshooting.md)
 * [Create a plugin](plugins/create-a-plugin/README.md)
   * [Getting started](plugins/create-a-plugin/getting-started.md)
   * [Architecture](plugins/create-a-plugin/architecture.md)
