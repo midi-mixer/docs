@@ -1,5 +1,5 @@
 ---
-description: Sharing custom profiles with other MIDI Mixer users.
+description: Sharing custom profiles with other MIDI Mixer users that use the same device.
 ---
 
 # Share a profile

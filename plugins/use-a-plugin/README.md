@@ -1,3 +1,7 @@
+---
+description: How to install and use plugins within MIDI Mixer.
+---
+
 # Use a plugin
 
 ## Installation

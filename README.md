@@ -1,3 +1,7 @@
+---
+description: 'An introduction to MIDI Mixer, this site, and the development lifecycle.'
+---
+
 # 👋 Introduction
 
 {% hint style="info" %}

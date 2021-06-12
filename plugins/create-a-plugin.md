@@ -1,3 +1,9 @@
+---
+description: >-
+  How to develop, build, and package a plugin for use by yourself and other MIDI
+  Mixer users.
+---
+
 # Create a plugin
 
 Detailed instructions on the options available to you when creating plugins will be here soon.

@@ -1,5 +1,5 @@
 ---
-description: App-wide settings to customise your MIDI Mixer
+description: App-wide settings to customise your MIDI Mixer.
 ---
 
 # ⚙ Settings

@@ -1,3 +1,9 @@
+---
+description: >-
+  How you're rewarded for contributions within MIDI Mixer, and what
+  contributions are used for.
+---
+
 # Contribution
 
 MIDI Mixer's on ongoing passion project that I develop in my spare time. By contributing, you afford you me the time and resources to keep adding cool new features, keep squashing bugs, and keep expanding the ecosystem of plugins and presets that make MIDI Mixer such a powerful tool.
@@ -21,7 +27,7 @@ There are currently two rewards for contributing that can be seen on the **Accou
 
 ## What's it used for?
 
-MIDI Mixer is a passion project, but there are still costs involved in maintaining and developing a desktop application safely and securely. Much of the contributions go towards maintaining the current ecosystem:
+MIDI Mixer is a passion project, but there are still costs involved in maintaining and developing a desktop application safely and securely. Much of the contributions go towards maintaining the current ecosystem. A few examples of this includes:
 
 * **Time** I'm a professional software developer during the day, so all MIDI Mixer development is done in my spare time outside of regular office hours. There's so many cool features to add, but time is a hugely limiting factor. 
 * **Secure code hosting / building** MIDI Mixer uses GitHub to host and build code securely. The app itself undergoes a suite of tests both periodically and before every release \(even alphas\) that check not only functionality but security, performance, and compatibility. Maintaining and running these checks costs money to do; we're already well beyond the free tier. ****

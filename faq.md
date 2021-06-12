@@ -1,3 +1,7 @@
+---
+description: Frequently Asked Questions and common issues.
+---
+
 # ❓ FAQ
 
 ## My device / MIDI Mixer isn't working! 

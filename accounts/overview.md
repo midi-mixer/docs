@@ -1,3 +1,9 @@
+---
+description: >-
+  Accounts in MIDI Mixer, how to register, and how they connect with
+  contributions.
+---
+
 # Overview
 
 Signing up for an account in the MIDI Mixer app is currently used to attribute contributions with users to ensure that folks are rewarded automatically for their generosity.
