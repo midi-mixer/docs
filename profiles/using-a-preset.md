@@ -9,7 +9,7 @@ description: >-
 **Presets** within MIDI Mixer are curated custom **Profiles** that are included within the app itself. They are most commonly compatible with the out-of-the-box configuration for the target device, helping users to plug in a new device and have it immediately recognised and set up by MIDI Mixer.
 
 {% hint style="info" %}
-If your device doesn't have a preset yet or you need to support a custom configuration, it's easy to [create your own profile](create-a-profile/).
+If your device doesn't have a preset yet or you need to support a custom configuration, it's easy to [create your own profile](create-a-profile.md).
 {% endhint %}
 
 ## Loading a preset

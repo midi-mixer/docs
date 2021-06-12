@@ -7,9 +7,7 @@
 ## Profiles
 
 * [Use a preset](profiles/using-a-preset.md)
-* [Create a profile](profiles/create-a-profile/README.md)
-  * [Overview](profiles/create-a-profile/overview.md)
-  * [Groups and Controls](profiles/create-a-profile/groups-and-controls.md)
+* [Create a profile](profiles/create-a-profile.md)
 * [Share a profile](profiles/share-a-profile.md)
 
 ## Plugins
