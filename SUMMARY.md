@@ -4,13 +4,13 @@
 * [FAQ](faq.md)
 * [Terminology](terminology.md)
 
-## Profiles
+## 🎹 Profiles
 
 * [Use a preset](profiles/using-a-preset.md)
 * [Create a profile](profiles/create-a-profile.md)
 * [Share a profile](profiles/share-a-profile.md)
 
-## Plugins
+## 🔌 Plugins
 
 * [Overview](plugins/using-plugins.md)
 * [Use a plugin](plugins/use-a-plugin/README.md)
@@ -22,15 +22,12 @@
   * [API](plugins/create-a-plugin/api.md)
   * [Packaging](plugins/create-a-plugin/packaging.md)
 
-## Supported plugins
+## 😀 Accounts
 
----
+* [Overview](accounts/overview.md)
+* [Contribution](accounts/contribution.md)
 
-* [OBS](https://github.com/midi-mixer/plugin-obs)
-* [Philips Hue](https://github.com/midi-mixer/plugin-hue)
-* [Discord](https://github.com/midi-mixer/plugin-discord)
-
-## Links
+## 🔗 Links
 
 * [Discord](https://discord.midi-mixer.com)
 * [Release notes](https://releases.midi-mixer.com)
