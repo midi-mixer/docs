@@ -21,4 +21,5 @@ Plugins provide you with the ability to extend MIDI Mixer and leverage its core 
 | OBS | MIDI Mixer | [https://github.com/midi-mixer/plugin-obs](https://github.com/midi-mixer/plugin-obs) |
 | Philips Hue | MIDI Mixer | [https://github.com/midi-mixer/plugin-hue](https://github.com/midi-mixer/plugin-hue) |
 | Discord | MIDI Mixer | [https://github.com/midi-mixer/plugin-discord](https://github.com/midi-mixer/plugin-discord) |
+| VoiceMeeter | [Jaggernaut555](https://github.com/Jaggernaut555) | [https://github.com/Jaggernaut555/midi-mixer-voicemeeter](https://github.com/Jaggernaut555/midi-mixer-voicemeeter) |
 
