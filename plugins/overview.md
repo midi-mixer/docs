@@ -22,4 +22,5 @@ Plugins provide you with the ability to extend MIDI Mixer and leverage its core 
 | Philips Hue | MIDI Mixer | [https://github.com/midi-mixer/plugin-hue](https://github.com/midi-mixer/plugin-hue) |
 | Discord | MIDI Mixer | [https://github.com/midi-mixer/plugin-discord](https://github.com/midi-mixer/plugin-discord) |
 | VoiceMeeter | [Jaggernaut555](https://github.com/Jaggernaut555) | [https://github.com/Jaggernaut555/midi-mixer-voicemeeter](https://github.com/Jaggernaut555/midi-mixer-voicemeeter) |
+| Nanoleaf | [Jaggernaut555](https://github.com/Jaggernaut555) | [https://github.com/Jaggernaut555/midi-mixer-nanoleaf](https://github.com/Jaggernaut555/midi-mixer-nanoleaf) |
 
