@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
+* [🏃‍♂️ Getting started](getting-started.md)
 * [❓ FAQ](faq.md)
 * [💬 Terminology](terminology.md)
 * [⚙ Settings](settings.md)
@@ -26,7 +27,8 @@
 ## 🔗 Links
 
 * [Discord](https://discord.midi-mixer.com)
+* [Roadmap](https://roadmap.midi-mixer.com)
 * [Release notes](https://releases.midi-mixer.com)
 * [Ko-fi](https://ko-fi.com/midimixer)
 * [Patreon](https://www.patreon.com/midimixer)
-
+* [Download](https://download.midi-mixer.com)
