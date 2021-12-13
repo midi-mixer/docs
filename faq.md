@@ -4,7 +4,7 @@ description: Frequently Asked Questions and common issues.
 
 # ❓ FAQ
 
-## My device / MIDI Mixer isn't working! 
+## My device / MIDI Mixer isn't working!&#x20;
 
 Make sure that **only** MIDI Mixer is using your device. If you have another program open that can use or make changes to your device, try closing it.
 
@@ -16,7 +16,7 @@ If that doesn't work, then check if your device needs specific drivers to functi
 
 Even a computer restart could be the simple fix that's needed. And in rare cases, trying another computer port or another cable might fix the issue.
 
-If all fails, let us know in on the [Discord server](https://discord.midi-mixer.com/) in `#support`, and we'll try to help you get it working.
+If all fails, let us know in on the [Discord server](https://discord.midi-mixer.com) in `#support`, and we'll try to help you get it working.
 
 It's most helpful if you start by telling us the steps you've already tried to resolve the issue, and which device you have.
 
@@ -24,19 +24,19 @@ It's most helpful if you start by telling us the steps you've already tried to r
 
 ## How do I uninstall and re-install drivers?
 
-1. Right-click the Windows icon in the bottom left of your screen.
+1\. Right-click the Windows icon in the bottom left of your screen.
 
-2. Select Device Manager.
+2\. Select Device Manager.
 
-3. Select Sounds, video & game controllers.
+3\. Select Sounds, video & game controllers.
 
-4. Right-click on your device's name.
+4\. Right-click on your device's name.
 
-5. Select Properties.
+5\. Select Properties.
 
-6. Go to the Driver tab.
+6\. Go to the Driver tab.
 
-7. Select Uninstall Device.
+7\. Select Uninstall Device.
 
 Afterwards, re-install the drivers.
 
@@ -44,9 +44,9 @@ Afterwards, re-install the drivers.
 
 #### Make sure it is in MC Mode!
 
-1. Unplug the cable from the XTM and locate the **MC button** in the lower left of the panel.
+1\. Unplug the cable from the XTM and locate the **MC button** in the lower left of the panel.
 
-2. Keep that button pressed while you plug the cable back in and the XTM turns on. 
+2\. Keep that button pressed while you plug the cable back in and the XTM turns on.&#x20;
 
 All the buttons will flash twice and you'll know that it's in MC mode from the small light that will appear in the top right of the panel, right above the text, **MC MODE**.
 
@@ -54,7 +54,7 @@ All the buttons will flash twice and you'll know that it's in MC mode from the s
 
 If it's the lights that aren't working, then look [here instead](faq.md#how-do-i-get-the-lights-working-on-the-korg-nanokontrol-2).
 
-First things first - Make sure you don't have other programs using your device, while you're trying to use MIDI Mixer with it. 
+First things first - Make sure you don't have other programs using your device, while you're trying to use MIDI Mixer with it.&#x20;
 
 If you have the Korg Editor open, MIDI Mixer will not work.
 
@@ -62,17 +62,17 @@ If you have the Korg Editor open, MIDI Mixer will not work.
 
 #### Try resetting it!
 
-1. Unplug the device.
+1\. Unplug the device.
 
-2. Hold down the PREV. and NEXT buttons **and** the CYCLE button, and plug the cable back into the device, while holding the 3 buttons down.
+2\. Hold down the PREV. and NEXT buttons **and** the CYCLE button, and plug the cable back into the device, while holding the 3 buttons down.
 
-3. Once you see the bottom lights flashing, you can let go of the buttons. Your device has now been reset!
+3\. Once you see the bottom lights flashing, you can let go of the buttons. Your device has now been reset!
 
 A visual guide can also be found in [this YouTube video](https://youtu.be/zCvaq0J-xuU?t=23).
 
 
 
-#### Resetting didn't work? 
+#### Resetting didn't work?&#x20;
 
 [Try uninstalling and re-installing the drivers](faq.md#how-do-i-uninstall-and-re-install-drivers).
 
@@ -84,17 +84,15 @@ It's part of the KORG USB-MIDI Driver Tools download at the bottom of [this page
 
 ## How do I get the lights working on the Korg nanoKONTROL 2?
 
-1. You can find the KORG KONTROL Editor, at the bottom of [this page](https://www.korg.com/us/support/download/product/0/159/), just above the drivers section where it says **Software**.
+1\. You can find the KORG KONTROL Editor, at the bottom of [this page](https://www.korg.com/us/support/download/product/0/159/), just above the drivers section where it says **Software**.
 
-2. Make sure nothing else is using your device, **including MIDI Mixer!** Don't have it running while you're using the Editor.
+2\. Make sure nothing else is using your device, **including MIDI Mixer!** Don't have it running while you're using the Editor.
 
-3. In KORG KONTROL Editor, click **Common** found right under **CONTROL** and then under **LED Mode** set it to **External** instead of Internal. 
+3\. In KORG KONTROL Editor, click **Common** found right under **CONTROL** and then under **LED Mode** set it to **External** instead of Internal.&#x20;
 
-4. At the top of the screen, click **Communication** and then select **Write Scene Data**.
+4\. At the top of the screen, click **Communication** and then select **Write Scene Data**.
 
-5. Make sure you **close** the Editor once you're done, so that the program is no longer running, otherwise MIDI Mixer will not work!
+5\. Make sure you **close** the Editor once you're done, so that the program is no longer running, otherwise MIDI Mixer will not work!
 
 ![](.gitbook/assets/image.png)
-
-
 

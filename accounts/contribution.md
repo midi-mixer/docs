@@ -71,6 +71,8 @@ The commission is paid by the retailer, at no cost to you.
 
 Due to the way MIDI Mixer supports any MIDI device, finding a device honed to your particular needs can be daunting if you're buying for the first time. Affiliate links help bridge this gap by providing you with plug'n'play profiles and direct links to investigate and purchase those devices.
 
+![An example of affiliate links within the app, on a plug'n'play preset for the Behringer X-TOUCH MINI](<../.gitbook/assets/Screenshot 2021-12-13 202909.png>)
+
 Let's be clear and look at the benefits to users, MIDI Mixer, and retailers:
 
 * **Users** are given clear, reputable paths to investigate and purchase new devices that are known to work well with MIDI Mixer
