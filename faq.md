@@ -96,3 +96,48 @@ It's part of the KORG USB-MIDI Driver Tools download at the bottom of [this page
 
 ![](.gitbook/assets/image.png)
 
+## My device sometimes disconnects
+
+MIDI devices are usually used with [DAWs](https://en.wikipedia.org/wiki/Digital\_audio\_workstation) for relatively short periods of time, but there are frequent reports of these devices silently disconnecting, requiring a user to un-plug and re-plug the device in order to get it to work again.
+
+If you're suffering from this problem, there are a few common steps that may help resolve your issue.
+
+#### 1. Turn off USB selective suspend
+
+The "USB selective suspend" option allows a USB hub driver to suspend an individual port without affecting the operation of other ports on the hub. It's usually used to save on power usage, but MIDI devices can often be mistaken for being inactive and therefore be turned off without warning.
+
+To disable this:
+
+![Go to "Edit power plan" settings](<.gitbook/assets/image (34).png>) ![Select "Change advanced power settings"](<.gitbook/assets/image (33).png>) ![Set "USB selective suspend setting" to "Disabled", Apply, and exit](<.gitbook/assets/image (35).png>)
+
+#### 2. Connect directly to your PC
+
+Hubs can interrupt certain USB power-saving settings and do their own thing, often causing unexpected behaviour in devices that maintain an open connection such as MIDI devices.
+
+Connecting the device directly to your machine removes this potential problem, making sure we only have to worry about one cable and one port.
+
+{% hint style="info" %}
+A hub's overall speed is often automatically downgraded to the speed of the lowest performing device connected to it. For instance, if you plug a USB 1 device into it, all other devices on the hub are downgraded to USB 1 speed, which can cause issues.
+{% endhint %}
+
+#### 3. Replace the USB cable
+
+Some users have found that using a different USB cable has solved their problem. To quote Ableton:
+
+> \[...] use a short, high quality USB cable with a ferrite bead. Just one faulty or underperforming cable can sometimes knock out USB connection for all other USB devices currently connected to the computer.
+
+#### 4. Try different ports
+
+Depending on how your ports are connected to your motherboard, some ports might work differently than others, or might use differing USB versions. It's common for MIDI devices to not support USB, so try a few different ports on your machine to see if this helps.
+
+#### 5. Turn off power saving for USB ports
+
+Similar to the "USB selective suspend" option, Windows can forcibly shut down power to USB ports if it deems it necessary. In the case of MIDI devices that need to powered at all times, this can cause problems.
+
+To disable this:
+
+![Go to "Device Manager"](<.gitbook/assets/image (32).png>) ![Expand "Universal Serial Bus controllers" and double-click all "USB Root Hub" devices](<.gitbook/assets/image (30).png>) ![For each one, UNTICK "Allow the computer to turn off this device to save power", and click "OK"](<.gitbook/assets/image (31).png>)
+
+#### 6. Make sure drivers and firmware are up to date
+
+Whatever device you have, make sure you have the latest drivers from the manufacturer's website. You may have documentation from the manufacturer when you bought the device that tells you where to get drivers from, but make sure you have the latest versions available to ensure stable use of the device.
