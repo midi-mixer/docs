@@ -4,6 +4,12 @@ description: An introduction to MIDI Mixer, this site, and the development lifec
 
 # 👋 Introduction
 
+{% hint style="danger" %}
+The current Microsoft Store version (`v2.5.2)` can sometimes instantly close for new users. A release fixing this issue (`v2.5.11`) is waiting to be approved by Microsoft.
+
+Until then, you can download the standalone version of MIDI Mixer [here](https://download.midi-mixer.com).
+{% endhint %}
+
 {% hint style="info" %}
 **Come and chat in our** [**Discord** ](https://discord.midi-mixer.com)**community!**
 {% endhint %}
