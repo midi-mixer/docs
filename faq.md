@@ -4,12 +4,6 @@ description: Frequently Asked Questions and common issues.
 
 # ❓ FAQ
 
-{% hint style="danger" %}
-The current Microsoft Store version (`v2.5.2)` can sometimes instantly close for new users. A release fixing this issue (`v2.5.11`) is waiting to be approved by Microsoft.
-
-Until then, you can download the standalone version of MIDI Mixer [here](https://download.midi-mixer.com).
-{% endhint %}
-
 ## My device / MIDI Mixer isn't working!&#x20;
 
 Make sure that **only** MIDI Mixer is using your device. If you have another program open that can use or make changes to your device, try closing it.
