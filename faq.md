@@ -4,6 +4,10 @@ description: Frequently Asked Questions and common issues.
 
 # ❓ FAQ
 
+{% hint style="success" %}
+A previous Microsoft Store release was closing on start for a selection of users. Make sure to update to the latest version to resolve this issue if you're having it.
+{% endhint %}
+
 ## My device / MIDI Mixer isn't working!&#x20;
 
 Make sure that **only** MIDI Mixer is using your device. If you have another program open that can use or make changes to your device, try closing it.
