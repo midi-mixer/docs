@@ -22,6 +22,10 @@ There are currently two rewards for contributing that can be seen on the **Accou
 
 **Lifetime beta access** is given for any contribution across any platform, and can be activated by setting the "Release channel" to "Alpha" in the app's settings page. Once set, your app will automatically keep up-to-date with the latest alpha version.
 
+{% hint style="info" %}
+Alphas often contain fast-paced, experimental changes. For this reason, those release channels are only available if MIDI Mixer has been installed using the _standalone_ installer; not the _Microsoft Store_ version.
+{% endhint %}
+
 ![Setting the app's "Release channel" to "Alpha" to receive automatic alpha updates](<../.gitbook/assets/image (26).png>)
 
 **Unlimited plugins** are given to all users with an active monthly subscription, using either [Patreon ](https://www.patreon.com/midimixer)or an in-app subscription (using [Stripe](https://stripe.com/docs/security/stripe)). Without access to unlimited plugins, only one plugin can be activated at a time.
