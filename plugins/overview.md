@@ -10,17 +10,22 @@ Plugins provide you with the ability to extend MIDI Mixer and leverage its core 
 
 **Plugins are strongly encouraged to be open source**, and MIDI Mixer itself has a number of "official" open source plugins to use as examples over on [GitHub](http://github.com/midi-mixer).
 
-{% page-ref page="use-a-plugin/" %}
+{% content-ref url="use-a-plugin/" %}
+[use-a-plugin](use-a-plugin/)
+{% endcontent-ref %}
 
-{% page-ref page="create-a-plugin.md" %}
+{% content-ref url="create-a-plugin.md" %}
+[create-a-plugin.md](create-a-plugin.md)
+{% endcontent-ref %}
 
 ## Known plugins
 
-| Name | Author | Link |
-| :--- | :--- | :--- |
-| OBS | MIDI Mixer | [https://github.com/midi-mixer/plugin-obs](https://github.com/midi-mixer/plugin-obs) |
-| Philips Hue | MIDI Mixer | [https://github.com/midi-mixer/plugin-hue](https://github.com/midi-mixer/plugin-hue) |
-| Discord | MIDI Mixer | [https://github.com/midi-mixer/plugin-discord](https://github.com/midi-mixer/plugin-discord) |
+| Name        | Author                                            | Link                                                                                                               |
+| ----------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| OBS         | MIDI Mixer                                        | [https://github.com/midi-mixer/plugin-obs](https://github.com/midi-mixer/plugin-obs)                               |
+| Philips Hue | MIDI Mixer                                        | [https://github.com/midi-mixer/plugin-hue](https://github.com/midi-mixer/plugin-hue)                               |
+| Discord     | MIDI Mixer                                        | [https://github.com/midi-mixer/plugin-discord](https://github.com/midi-mixer/plugin-discord)                       |
 | VoiceMeeter | [Jaggernaut555](https://github.com/Jaggernaut555) | [https://github.com/Jaggernaut555/midi-mixer-voicemeeter](https://github.com/Jaggernaut555/midi-mixer-voicemeeter) |
-| Nanoleaf | [Jaggernaut555](https://github.com/Jaggernaut555) | [https://github.com/Jaggernaut555/midi-mixer-nanoleaf](https://github.com/Jaggernaut555/midi-mixer-nanoleaf) |
+| Nanoleaf    | [Jaggernaut555](https://github.com/Jaggernaut555) | [https://github.com/Jaggernaut555/midi-mixer-nanoleaf](https://github.com/Jaggernaut555/midi-mixer-nanoleaf)       |
+| Brightness  | [Jaggernaut555](https://github.com/Jaggernaut555) | [https://github.com/Jaggernaut555/midi-mixer-brightness](https://github.com/Jaggernaut555/midi-mixer-brightness)   |
 
