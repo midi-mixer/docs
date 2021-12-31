@@ -4,10 +4,6 @@ description: An introduction to MIDI Mixer, this site, and the development lifec
 
 # 👋 Introduction
 
-{% hint style="success" %}
-A previous Microsoft Store release was closing on start for a selection of users. Make sure to update to the latest version to resolve this issue if you're having it.
-{% endhint %}
-
 {% hint style="info" %}
 **Come and chat in our** [**Discord** ](https://discord.midi-mixer.com)**community!**
 {% endhint %}
