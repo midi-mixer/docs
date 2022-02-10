@@ -10,12 +10,12 @@ Plugins provide you with the ability to extend MIDI Mixer and leverage its core 
 
 **Plugins are strongly encouraged to be open source**, and MIDI Mixer itself has a number of "official" open source plugins to use as examples over on [GitHub](http://github.com/midi-mixer).
 
-{% content-ref url="use-a-plugin/" %}
-[use-a-plugin](use-a-plugin/)
+{% content-ref url="use-a-plugin.md" %}
+[use-a-plugin.md](use-a-plugin.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-plugin.md" %}
-[create-a-plugin.md](create-a-plugin.md)
+{% content-ref url="create-a-plugin/" %}
+[create-a-plugin](create-a-plugin/)
 {% endcontent-ref %}
 
 ## Known plugins

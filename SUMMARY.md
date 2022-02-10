@@ -15,9 +15,17 @@
 ## 🔌 Plugins
 
 * [Overview](plugins/overview.md)
-* [Use a plugin](plugins/use-a-plugin/README.md)
-  * [Troubleshooting](plugins/use-a-plugin/troubleshooting.md)
-* [Create a plugin](plugins/create-a-plugin.md)
+* [Use a plugin](plugins/use-a-plugin.md)
+* [Create a plugin](plugins/create-a-plugin/README.md)
+  * [💻 Development environment](plugins/create-a-plugin/development-environment.md)
+  * [✨ Creating a plugin](plugins/create-a-plugin/creating-a-plugin.md)
+  * [📄 plugin.json](plugins/create-a-plugin/plugin.json.md)
+  * [🎚 Assignments](plugins/create-a-plugin/assignments.md)
+  * [🔘 Buttons](plugins/create-a-plugin/buttons.md)
+  * [🎛 Settings](plugins/create-a-plugin/settings.md)
+  * [🚚 Releasing](plugins/create-a-plugin/releasing.md)
+  * [🐛 Debugging and common issues](plugins/create-a-plugin/debugging-and-common-issues.md)
+* [Troubleshooting](plugins/troubleshooting.md)
 
 ## 😀 Accounts
 

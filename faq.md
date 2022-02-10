@@ -47,7 +47,7 @@ The "USB selective suspend" option allows a USB hub driver to suspend an individ
 
 To disable this:
 
-![Go to "Edit power plan" settings](<.gitbook/assets/image (34).png>) ![Select "Change advanced power settings"](<.gitbook/assets/image (33) (1).png>) ![Set "USB selective suspend setting" to "Disabled", Apply, and exit](<.gitbook/assets/image (35).png>)
+![Go to "Edit power plan" settings](<.gitbook/assets/image (34) (1).png>) ![Select "Change advanced power settings"](<.gitbook/assets/image (33) (1) (1).png>) ![Set "USB selective suspend setting" to "Disabled", Apply, and exit](<.gitbook/assets/image (35) (1).png>)
 
 #### 2. Connect directly to your PC
 
@@ -75,7 +75,7 @@ Similar to the "USB selective suspend" option, Windows can forcibly shut down po
 
 To disable this:
 
-![Go to "Device Manager"](<.gitbook/assets/image (32).png>) ![Expand "Universal Serial Bus controllers" and double-click all "USB Root Hub" devices](<.gitbook/assets/image (30).png>) ![For each one, UNTICK "Allow the computer to turn off this device to save power", and click "OK"](<.gitbook/assets/image (31) (1).png>)
+![Go to "Device Manager"](<.gitbook/assets/image (32) (1).png>) ![Expand "Universal Serial Bus controllers" and double-click all "USB Root Hub" devices](<.gitbook/assets/image (30) (1).png>) ![For each one, UNTICK "Allow the computer to turn off this device to save power", and click "OK"](<.gitbook/assets/image (31) (1) (1).png>)
 
 #### 6. Make sure drivers and firmware are up to date
 
@@ -134,7 +134,7 @@ A list of common questions about MIDI Mixer's versioning, release channels, and 
 
 MIDI Mixer can be uninstalled in the "Apps & Features" menu in Windows for both the standalone and Microsoft Store version.
 
-![Uninstalling MIDI Mixer in the "Apps & Features" menu in Windows 11](<.gitbook/assets/image (31).png>)
+![Uninstalling MIDI Mixer in the "Apps & Features" menu in Windows 11](<.gitbook/assets/image (31) (1).png>)
 
 When MIDI Mixer is uninstalled, however, it will leave behind some small configuration files to keep your set-up intact should you want to return to using the app at a later date.
 
