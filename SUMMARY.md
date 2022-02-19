@@ -35,6 +35,7 @@
 ## 🔗 Links
 
 * [Discord](https://discord.midi-mixer.com)
+* [Forum](https://forum.midi-mixer.com)
 * [Roadmap](https://roadmap.midi-mixer.com)
 * [Release notes](https://releases.midi-mixer.com)
 * [Ko-fi](https://ko-fi.com/midimixer)
