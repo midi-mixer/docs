@@ -6,12 +6,15 @@ description: Provide your user with settings to customise your plugin.
 
 MIDI Mixer provides you with the ability to specify a list of settings in a standardised format to allow the user to customise your plugin's functionality.
 
-There are currently four types of settings that can be defined, with more planned in later releases.
+There are currently five types of settings that can be defined, with more planned in later releases.
 
 * Text field
 * Password field (a text field with obscured input)
 * Status field (a customisable message to show to the user)
 * Button (react to presses to trigger actions within your plugin)
+* Toggle (an on/off switch)
+* Integer (a whole number with a fixed minimum and maximum value)
+* Slider (same as an integer, but with a slider)
 
 ![The Brightness plugin using a status field to show the user how many monitors have been detected](<../../.gitbook/assets/image (31).png>) ![The Philips Hue plugin using a text field and password field to allow user input](<../../.gitbook/assets/image (39).png>)
 
@@ -40,6 +43,22 @@ The example `plugin.json` snippet below adds one of every type of input.
     "qux": {
       "label": "We are currently connected",
       "type": "status"
+    },
+    "quux": {
+      "label": "Activate secret sauce",
+      "type": "toggle"
+    },
+    "quuz": {
+      "label": "Enter your favourite number",
+      "type": "integer",
+      "min": 1,
+      "max": 100
+    },
+    "corge": {
+      "label": "Set the curve",
+      "type": "slider",
+      "min": 1,
+      "max": 10
     }
   }
 }
