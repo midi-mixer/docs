@@ -49,7 +49,7 @@ MIDI Mixer is a passion project, but there are still costs involved in maintaini
   ****Distributing a desktop application requires an [Authenticode Digital Signature](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/authenticode) that can run up to $700 per year. These are certificates that must be bought by a developer to prove to Microsoft that their software is safe. This does also provide some cool features to reassure the user that the app they're installing is directly from me and hasn't been tampered with.\
 
 * **Community feature hosting**\
-  ****Features like the ability to share profiles, or the ability to have an account requires servers and services to be developed and maintained. There are more community-based features being planned but these all require consistent attention and the proper funding for hosting and security.
+  ****Features like the ability to share profiles, this documentation site, the forums, or the ability to have an account requires servers and services to be developed and maintained. There are more community-based features being planned but these all require consistent attention and the proper funding for hosting and security.
 
 ## In-app subscriptions
 
