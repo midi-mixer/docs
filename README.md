@@ -5,7 +5,7 @@ description: An introduction to MIDI Mixer, this site, and the development lifec
 # 👋 Introduction
 
 {% hint style="info" %}
-**Come and chat in our** [**Discord** ](https://discord.midi-mixer.com)**community!**
+**Join the discussion in the** [**forums**](https://forums.midi-mixer.com) **or come and chat in the** [**Discord** ](https://discord.midi-mixer.com)**community!**
 {% endhint %}
 
 MIDI Mixer is a piece of Windows software that enables you to connect to and control your Windows audio using MIDI devices. You can control the audio of individual applications and devices, as well as integrating with any number of other applications like OBS, Philips Hue, or Discord, using [open-source plugins](plugins/overview.md).
@@ -36,4 +36,4 @@ If you do decide to be wonderful and contribute, you'll receive some cool extra 
 
 I use MIDI Mixer myself every day and spend a lot of my spare time developing it; your contribution would be invaluable in providing me with the time and resources to keep adding cool new features, keep squashing bugs, and keep expanding the ecosystem of plugins and presets that make MIDI Mixer such a powerful tool.
 
-Either way, I hope you're enjoying using MIDI Mixer as much as I'm enjoying making it. Come and chat with the rest of the community over on [Discord](https://discord.midi-mixer.com).
+Either way, I hope you're enjoying using MIDI Mixer as much as I'm enjoying making it. Come and chat with the rest of the community in our [forums](https://forums.midi-mixer.com) or over on [Discord](https://discord.midi-mixer.com).
