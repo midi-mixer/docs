@@ -35,8 +35,8 @@
 ## 🔗 Links
 
 * [💬 Discord](https://discord.midi-mixer.com)
-* [💬 Forums](https://forum.midi-mixer.com)
-* [🛣 Roadmap](https://roadmap.midi-mixer.com)
+* [💬 Forums](https://forums.midi-mixer.com)
+* [🛣 Roadmap](https://roadmap.midi-mixer.com/)
 * [📣 Release notes](https://releases.midi-mixer.com)
 * [☕ Ko-fi](https://ko-fi.com/midimixer)
 * [❤ Patreon](https://www.patreon.com/midimixer)
