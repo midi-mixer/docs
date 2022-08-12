@@ -162,4 +162,7 @@ First, locate your MIDI Mixer installation.
 
 Next, copy the following files and folders to a safe place:
 
-*
+* `usersettings.json` - Settings, preferences, and profile assignments
+* `profiles/` - Custom profiles
+
+To "restore" your backup, just copy over those two items in to a new MIDI Mixer install and you're all set!
