@@ -18,7 +18,7 @@ If that doesn't work, then check if your device needs specific drivers to functi
 
 Even a computer restart could be the simple fix that's needed. And in rare cases, trying another computer port or another cable might fix the issue.
 
-If all fails, let us know in on the [Discord server](https://discord.midi-mixer.com) in `#support`, and we'll try to help you get it working.
+If all fails, let us know in on the [Discord server](https://discord.midi-mixer.com/) in `#support`, and we'll try to help you get it working.
 
 It's most helpful if you start by telling us the steps you've already tried to resolve the issue, and which device you have.
 
@@ -124,7 +124,7 @@ It's part of the KORG USB-MIDI Driver Tools download at the bottom of [this page
 4. At the top of the screen, click **Communication** and then select **Write Scene Data**.
 5. Make sure you **close** the Editor once you're done, so that the program is no longer running, otherwise MIDI Mixer will not work!
 
-![](.gitbook/assets/image.png)
+<img src=".gitbook/assets/image.png" alt="" data-size="original">
 
 ## **Application lifecycle**
 
@@ -146,3 +146,20 @@ Be aware that these files contain all of your MIDI Mixer configuration **includi
 
 * `%appdata%\midi-mixer-app`
 * `%localappdata%\Packages\60992MIDIMixer.MIDIMixer_crf4gtfkaz836`
+
+### Backing up your data
+
+All of MIDI Mixer's configuration exists in a single location; you can easily back up your data by copying the below files and folders to wherever you need them.
+
+{% hint style="info" %}
+Backing up these files to the cloud will be available at a later date, so make sure to [create an account](accounts/overview.md) ready.
+{% endhint %}
+
+First, locate your MIDI Mixer installation.
+
+* Standalone: `%appdata%\midi-mixer-app`
+* Microsoft Store: `%localappdata%\Packages\60992MIDIMixer.MIDIMixer_crf4gtfkaz836`
+
+Next, copy the following files and folders to a safe place:
+
+*
